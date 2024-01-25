@@ -1,0 +1,83 @@
+
+
+[1]
+https://www.darpa.mil/about-us/darpa-perspective-on-ai
+
+[2] 
+Leveraging Artificial Intelligence (AI) for Air and Missile Defense (AMD): An Outcome-Oriented Decision Aid
+https://apps.dtic.mil/sti/citations/AD1126470
+https://apps.dtic.mil/sti/pdfs/AD1126470.pdf
+
+[3]
+The fast and the furious Drone swarming and hypersonic weapons 
+Artificial intelligence and the future of warfare 
+https://www.manchesterhive.com/view/9781526145062/9781526145062.00015.xml
+
+[4]
+He, W., Zhang, L. (2007). Dim Target Detection in Infrared Image Sequences Using Accumulated Information. In: Sobh, T., Elleithy, K., Mahmood, A., Karim, M. (eds) Innovative Algorithms and Techniques in Automation, Industrial Electronics and Telecommunications. Springer, Dordrecht. https://doi.org/10.1007/978-1-4020-6266-7_89
+https://link.springer.com/chapter/10.1007/978-1-4020-6266-7_89
+
+[5] - GOD PAPER
+W. Zhang, F. Yang and Y. Liang, "A Bayesian Framework for Joint Target Tracking, Classification, and Intent Inference," in IEEE Access, vol. 7, pp. 66148-66156, 2019, doi: 10.1109/ACCESS.2019.2917541.
+
+https://ieeexplore.ieee.org/document/8717680
+
+[6]
+Qiu S, Liu Q, Zhou S, Wu C. Review of Artificial Intelligence Adversarial Attack and Defense Technologies. Applied Sciences. 2019; 9(5):909. https://doi.org/10.3390/app9050909 
+
+https://www.mdpi.com/2076-3417/9/5/909
+
+[7]
+J. F. Basso Brancalion and K. H. Kienitz, "Threat Evaluation of Aerial Targets in an Air Defense System Using Bayesian Networks," 2017 IEEE 15th Intl Conf on Dependable, Autonomic and Secure Computing, 15th Intl Conf on Pervasive Intelligence and Computing, 3rd Intl Conf on Big Data Intelligence and Computing and Cyber Science and Technology Congress(DASC/PiCom/DataCom/CyberSciTech), 2017, pp. 897-900, doi: 10.1109/DASC-PICom-DataCom-CyberSciTec.2017.151.
+
+https://ieeexplore.ieee.org/document/8328495
+
+[8]
+F. Johansson and G. Falkman, "A Bayesian network approach to threat evaluation with application to an air defense scenario," 2008 11th International Conference on Information Fusion, 2008, pp. 1-7.
+https://www.researchgate.net/publication/224330387_A_Bayesian_network_approach_to_threat_evaluation_with_application_to_an_air_defense_scenario
+
+[9]
+Y. Wang, Y. Sun, J. -Y. Li and S. -T. Xia, "Air defense threat assessment based on dynamic Bayesian network," 2012 International Conference on Systems and Informatics (ICSAI2012), 2012, pp. 721-724, doi: 10.1109/ICSAI.2012.6223112.
+
+https://ieeexplore.ieee.org/document/6223112
+
+[10]
+https://iopscience.iop.org/article/10.1088/1742-6596/1302/4/042023/pdf
+
+[11]
+Kristine Bell; Thomas Corwin; Lawrence Stone; Roy Streit, Bayesian Multiple Target Tracking, Second Edition , Artech, 2013.
+
+https://ieeexplore.ieee.org/document/9101112
+
+[12]
+A. Alin, M. V. Butz and J. Fritsch, "Tracking moving vehicles using an advanced grid-based Bayesian filter approach," 2011 IEEE Intelligent Vehicles Symposium (IV), 2011, pp. 466-472, doi: 10.1109/IVS.2011.5940471.
+
+https://ieeexplore.ieee.org/document/5940471
+
+[13]
+Xiang Ye, G. Kamath and L. A. Osadciw, "Using Bayesian inference for sensor management of air traffic control systems," 2009 IEEE Symposium on Computational Intelligence in Multi-Criteria Decision-Making(MCDM), 2009, pp. 23-29, doi: 10.1109/MCDM.2009.4938824.
+
+https://ieeexplore.ieee.org/document/4938824
+
+[14]
+E. S. Ayra, D. R. Insua and J. Cano, "Bayesian Network for Managing Runway Overruns in Aviation Safety," Journal of Aerospace Information Systems, 2019.
+https://arc.aiaa.org/doi/full/10.2514/1.I010726
+
+[15]
+J. Elfring, R. Appeldoorn and M. Kwakkernaat, "Multisensor simultaneous vehicle tracking and shape estimation," 2016 IEEE Intelligent Vehicles Symposium (IV), 2016, pp. 630-635, doi: 10.1109/IVS.2016.7535453.
+F. Dellaert and C. Thorpe, "Robust Car Tracking using Kalman filtering and Bayesian templates," Proceedings of SPIE Intelligent Transportation Systems, 1998. https://www.ri.cmu.edu/publications/robust-car-tracking-using-kalman-filtering-and-bayesian-templates/
+
+https://www.ri.cmu.edu/publications/robust-car-tracking-using-kalman-filtering-and-bayesian-templates/
+
+[16]
+https://ieeexplore.ieee.org/document/7535453
+
+[17]
+W. Zhang, J. Zhang, M. Bao, X. -P. Zhang and X. Li, "Multitarget Tracking Based on Dynamic Bayesian Network With Reparameterized Approximate Variational Inference," in IEEE Internet of Things Journal, vol. 9, no. 13, pp. 11542-11559, 1 July1, 2022, doi: 10.1109/JIOT.2021.3131308.
+
+https://ieeexplore.ieee.org/document/9628185
+
+[18]
+V. Pavlovic, J. M. Rehg, Tat-Jen Cham and K. P. Murphy, "A dynamic Bayesian network approach to figure tracking using learned dynamic models," Proceedings of the Seventh IEEE International Conference on Computer Vision, 1999, pp. 94-101 vol.1, doi: 10.1109/ICCV.1999.791203.
+
+https://ieeexplore.ieee.org/document/791203
