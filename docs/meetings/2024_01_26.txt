@@ -1,0 +1,21 @@
+
+
+Deliverables for next meet:
+- [ ] Presentation title
+- [ ] Author information
+- [ ] Speaker biography
+    - for this and Author info:
+        - read past bios and author infos
+        - [ ] send over templates I liked
+- [ ] Rewrite abstract for technical review
+    - similarly, read other abstracts from past SPIE
+- [ ] Install Latex editor and get familiar
+
+Specific to abstract:
+- get REALLY focused and concise
+- include lots of info about what we are doing
+- focus
+- focus
+- focus
+
+
