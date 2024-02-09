@@ -3,12 +3,13 @@
 Deliverables for next meet:
 - [ ] Presentation title
 - [ ] Author information
-- [ ] Speaker biography
+- [x] Speaker biography
     - for this and Author info:
         - read past bios and author infos
         - [ ] send over templates I liked
 - [ ] Rewrite abstract for technical review
     - similarly, read other abstracts from past SPIE
+
 - [ ] Install Latex editor and get familiar
 
 Specific to abstract:
