@@ -1,0 +1,105 @@
+
+Citations - external:
+LaTeX2e\cite{Lamport94}
+
+\citenum{Perelman97}
+
+
+References - hops within the paper:
+~\ref{sec:sections}
+
+
+
+
+
+Some font formatting
+{\ttfamily spie.cls}
+
+Italics:
+{\em AIP Style Manual}
+
+Like `` style:
+\verb|\documentclass[a4paper]{spie}|.  
+
+
+
+\section{FIGURES AND TABLES}
+\subsection{Proposed Bayesian Network}
+\label{sec:methods}
+\subsubsection{Sub-subsection attributes}
+
+
+
+
+
+
+
+URLs
+\url{https://www.overleaf.com}
+
+Footnotes:
+SPIE.\footnote{The basic format was developed in 1995 by Rick Hermann (SPIE) and Ken Hanson (Los Alamos National Lab.).}
+
+
+
+# -----------------------------------------------------------------------------
+\begin{table}[ht]
+\caption{Margins and print area specifications.} 
+\label{tab:Paper Margins}
+\begin{center}       
+\begin{tabular}{|l|l|l|} 
+\hline
+\rule[-1ex]{0pt}{3.5ex}  Margin & A4 & Letter  \\
+\hline
+\rule[-1ex]{0pt}{3.5ex}  Top margin & 2.54 cm & 1.0 in.   \\
+\hline
+\rule[-1ex]{0pt}{3.5ex}  Bottom margin & 4.94 cm & 1.25 in.  \\
+\hline
+\rule[-1ex]{0pt}{3.5ex}  Left, right margin & 1.925 cm & .875 in.  \\
+\hline
+\rule[-1ex]{0pt}{3.5ex}  Printable area & 17.15 x 22.23 cm & 6.75 x 8.75 in.  \\
+\hline 
+\end{tabular}
+\end{center}
+\end{table}
+
+
+https://www.overleaf.com/learn/latex/Tables
+
+https://tex.stackexchange.com/questions/260888/placing-three-tables-next-to-each-other
+
+https://tex.stackexchange.com/questions/8549/how-can-i-draw-a-horizontal-line-spanning-only-some-of-the-table-cells
+
+
+
+
+\begin{tabular}{|c|c|}
+\hline
+    Conditions & clear \\
+    Range & far \\
+    Altitude & high \\
+\hline
+    Size - Camera & small \\
+    Size - Radar & small \\
+\hline
+    Speed - Radar & medium \\
+    Speed - IR & medium \\
+\hline
+\end{tabular}
+
+
+# -----------------------------------------------------------------------------
+% Note: If compiling with LaTeX+dvipdf, please ensure images generated from 
+% other software packages have their bounding boxes set correctly.
+   \begin{figure} [ht]
+   \begin{center}
+   \begin{tabular}{c} %% tabular useful for creating an array of images 
+   \includegraphics[height=5cm]{mcr3b.eps}
+   \end{tabular}
+   \end{center}
+   \caption[example] 
+%>>>> use \label inside caption to get Fig. number with \ref{}
+   { \label{fig:example} 
+Figure captions are used to describe the figure and help the reader understand it's significance.  The caption should be centered underneath the figure and set in 9-point font.  It is preferable for figures and tables to be placed at the top or bottom of the page. LaTeX tends to adhere to this standard.}
+   \end{figure}
+
