@@ -1,13 +1,24 @@
 
 Question:
 
-- [ ] For my bio, how should convey my relation to JHU?
+- [x] For my bio, how should convey my relation to JHU?
     - should I use my JHU email as well?
 
 Action items:
 
-- [ ] send out updated zoom invite
-- [ ] think if i was on technical review of spie
+- [x] send out updated zoom invite
+    - Note: zoom still wont send out an email
+- [x] just move contents to OverLeaf
+    - dont edit content
+    - get tables in there
+- [x] in the github
+    - make a folder called '/figures'
+        - make a subfolder for every figure and graph
+        - put in draw.io stuff
+        - need to be easily exported
+    - "these images will be the most important thing we are working with"
+    - latex can also be used
+- [x] think if i was on technical review of spie
     - detailed understanding of what research was done
     - detailed understanding of approach
     - detailed understanding of results
@@ -15,21 +26,12 @@ Action items:
         - what im doing
         - what my appproach
         - what my results"
-- [ ] create abstract for online
+            - 
+- [x] create abstract for online
     - break apart from technical review
     - the shorter the better - a tease
         - not as detailed
         - not as technical
-- [ ] just move contents to OverLeaf
-    - dont edit content
-    - get tables in there
-- [ ] in the github
-    - make a folder called '/figures'
-        - make a subfolder for every figure and graph
-        - put in draw.io stuff
-        - need to be easily exported
-    - "these images will be the most important thing we are working with"
-    - latex can also be used
 
 "no research should be left on the cutting floor
 all research has a home somewhere"
