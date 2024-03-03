@@ -1,0 +1,72 @@
+
+Action Items:
+
+- drop 55555
+    - replace with: fusion of sensor systems for decision making
+    - multiple disparate sensors
+    - application of known mathematical concept that produces futuristic results
+        - without incurring overhead of huge nns and lack of explainability
+    - we pick air defense to prove viability
+- Abstract:
+    - send to several SMEs
+    - need to make sure releasable - check with Comms
+- put the figure from the tex file and put it in the paper
+    - https://tikz.dev/tikz-shapes
+- take template and create sub-figures
+
+
+---------------------------------------------------------------------------
+"disparate sensor system into intelligeble product"
+
+We need an abstract punchline that actually matches whats in the paper
+
+"demonstrated feasibility - that it can be done"
+"and then make easily defendable observations about what ive done"
+
+- modern
+- new
+- intuitive
+- easy
+
+motivation:
+evolve a way to fuse sensor information
+
+solution:
+bayesian networks (are)
+- flexible
+- easy
+- lightweight
+- well understood
+- ubiquitous across languages and frameworks
+- ability to do and solve many problems trying to do with AI
+- do some things we cant do with newer generation AI systems
+    - track back thru impact, breakdowns
+    - impossible logical leaps
+
+"weve opened a door to using something that has been overlooked
+- we dont need gun for something we can use a hammer for
+- with hammer we can actually build something much better"
+
+WE ARE NOT COMPARING AGAINST ANYTHING - WE ARE DEMONSTRATING WHAT WEVE DONE
+
+WE ARE SHOWING THEM AN IDEA:
+- you dont need huge NNs to solve these problems
+
+WE NEED TO MAKE SURE THIS HAS NOT BEEN DONE BEFORE
+-------------------------------------------------------------------------------
+
+"Rushing the abstract is one of the biggest mistakes"
+
+
+Later:
+
+
+- With abstract finalized, edit the paper to support our key abstract points
+- As editing, identify new figures we want to include
+    - comparing bayesian networks to other models
+        - computing needs
+        - etc
+- Well also be thinking about the poster
+    - collection of images etc that hammer home the abstract
+    - we do have a lot of time for that
+    - but we also want to be able to get it to them asap

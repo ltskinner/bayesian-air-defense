@@ -1,0 +1,92 @@
+
+
+
+
+
+Me:
+- we want the last sentence to pop a little more
+    - need more bang
+    - what did we actually produce
+- is the combination of sensors
+    - doing it with bayesian networks, is better than ... ?
+    why is this combination (thru bayesian networks)
+    better than another way?
+    compared to doing it in some other way with some other alg
+- convert images into latex graph objects
+- save the original versions
+    - keep every revision
+    - this is ABSTRACT_vSPIE.docx
+
+Marc:
+- will convert figure 5 into latex graph objects
+    - tkz package?
+    - want the picture by itself to clearly communicate
+
+
+Focus:
+
+We have authored a more effective application of bayesian networks to the
+target and intent classification problem
+
+This is an exploding {area of interest}
+but now, we can apply more advanced tooling that fall into AI/ML
+in that vein, one of the tools that exists that falls into the background as "old"
+but this actually gives us the ability to
+provide value over
+
+The reason we are choosing bayesian networks is because compared
+to other approaches, it is a black box, and we can understand why
+the results are being attained
+
+Which provides us intense value in the realm of air defense
+because we need explainability
+
+Now the idea of using bayes nets is not new
+*we give our review of why, and background of what other people have tried*
+From there, we go into our method
+
+The end of the paper is explaining why this was benefitial and what was
+accomplished, compared to what has been done before
+
+
+-----------------------
+P1: why bayesian networks are interesting?
+why bayesian networks
+    - well known, understood
+    - not black box - explainable
+    - can encode all sorts of info even without tons of data
+
+P2: what has already been done? whats our delta and value add?
+- what were gonna do thats different is {}
+- with the research that weve done:
+    - what are we hoping to show that has not been done
+    - what part of that were we actually able to do
+
+
+---- Conclusion
+Compare
+    - fuse together, create robust an fault tolerant system
+    - is this a new thing?
+        - if so, where did others fail where we have succeeded?
+        - if other papers were successful
+            - what makes ours different
+            - and why would someone choose ours over theirs?
+            --> the answer to this will drive how we reformat the last sentence
+
+
+
+What are we really doing here?
+What is it were trying to tell people?
+
+figure out what it is that best differentiates from other work before?
+Think of 2-3
+    - data fusion
+        - measurements
+        - knowledge
+        - multi-system
+        - "dynamic" and "modular" - pick good "boldable" words
+    - explainable reasoning
+    - concise, clear, powerful
+Then well pick
+
+
