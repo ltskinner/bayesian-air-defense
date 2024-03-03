@@ -1,0 +1,72 @@
+\documentclass[fleqn]{article} 
+\usepackage[paperwidth=8.5in,paperheight=11in,margin=.75in,headheight=0.27in,headsep=.1in]{geometry}
+\usepackage{amsmath,amsfonts,amssymb,graphicx,mathtools,flexisym}
+\usepackage{tikz}
+\usepackage{tkz-graph}
+\usepackage{xcolor}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{scrextend}
+\usepackage{multirow}
+\usepackage{algorithm, algpseudocode}
+\usepackage[shortlabels]{enumitem}
+\usetikzlibrary{automata,arrows,positioning,calc}
+
+
+\begin{document}
+
+\begin{figure}[h!]
+\begin{center}
+\begin{tikzpicture}[
+  blacknode/.style={shape=rectangle, draw=black, line width=2},
+  bluenode/.style={shape=rectangle, draw=blue, line width=2},
+  greennode/.style={shape=rectangle, draw=green, line width=2},
+  rednode/.style={shape=circle, draw=red, line width=2},
+  yellownode/.style={shape=rectangle, draw=yellow, line width=2}
+]
+\path (4,12) node[bluenode, align=center](w){Weather}  
+(8,12) node[bluenode, align=center](r1){Range}
+(12,12) node[bluenode, align=center](a){Altitude}
+(0,5) node[bluenode, align=center](c1){Camera\\ Size}
+(3,4) node[bluenode, align=center](r2){Radar\\ Size}
+(5,4) node[bluenode, align=center](r3){Radar\\ Speed}
+(7,5) node[bluenode, align=center](i1){IR Speed}
+(0,9) node[blacknode, align=center](c2){Camera\\ Reliability}
+(3,9) node[blacknode, align=center](r4){Radar\\ Reliability}
+(6,9) node[blacknode, align=center](i2){IR\\ Reliability}
+(1,1) node[blacknode, align=center](s1){Size}
+(6,1) node[blacknode, align=center](s2){Speed}
+(6,-1) node[yellownode, align=center](o){obj type}
+(12,0) node[greennode, align=center](i3){Intent};
+
+\draw[->, thick] (w) -- (c2);
+\draw[->, thick] (w) -- (r4);
+\draw[->, thick] (w) -- (i2);
+\draw[->, thick] (r1) -- (c2);
+\draw[->, thick] (r1) -- (r4);
+\draw[->, thick] (r1) -- (i2);
+\draw[->, thick] (r1) -- (i3);
+\draw[->, thick] (a) -- (c2);
+\draw[->, thick] (a) -- (r4);
+\draw[->, thick] (a) -- (i2);
+\draw[->, thick] (a) -- (o);
+\draw[->, thick] (a) -- (i3);
+\draw[->, thick] (c1) -- (s1);
+\draw[->, thick] (c2) -- (s1);
+\draw[->, thick] (r4) -- (s1);
+\draw[->, thick] (r4) -- (s2);
+\draw[->, thick] (i2) -- (s2);
+\draw[->, thick] (r2) -- (s1);
+\draw[->, thick] (r3) -- (s2);
+\draw[->, thick] (s1) -- (o);
+\draw[->, thick] (s2) -- (o);
+\draw[->, thick] (s2) -- (i3);
+\draw[->, thick] (o) -- (i3);
+
+\end{tikzpicture}
+\end{center}
+\caption{\label{fig:fullBayes} Full Bayesian Network architecture.}
+\end{figure}
+
+\end{document}
