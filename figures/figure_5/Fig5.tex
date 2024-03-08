@@ -19,26 +19,25 @@
 \begin{figure}[h!]
 \begin{center}
 \begin{tikzpicture}[
-  blacknode/.style={shape=rectangle, draw=black, line width=2},
   bluenode/.style={shape=rectangle, draw=blue, line width=2},
-  greennode/.style={shape=rectangle, draw=green, line width=2},
-  rednode/.style={shape=circle, draw=red, line width=2},
-  yellownode/.style={shape=rectangle, draw=yellow, line width=2}
+  blacknode/.style={shape=rectangle, draw=black, line width=2},
+  yellownode/.style={shape=rectangle, draw=yellow, line width=2},
+  greennode/.style={shape=rectangle, draw=green, line width=2}
 ]
 \path (4,12) node[bluenode, align=center](w){Weather}  
 (8,12) node[bluenode, align=center](r1){Range}
 (12,12) node[bluenode, align=center](a){Altitude}
 (0,5) node[bluenode, align=center](c1){Camera\\ Size}
-(3,4) node[bluenode, align=center](r2){Radar\\ Size}
-(5,4) node[bluenode, align=center](r3){Radar\\ Speed}
-(7,5) node[bluenode, align=center](i1){IR Speed}
+(3,3) node[bluenode, align=center](r2){Radar\\ Size}
+(5,3) node[bluenode, align=center](r3){Radar\\ Speed}
+(8,5) node[bluenode, align=center](i1){IR Speed}
 (0,9) node[blacknode, align=center](c2){Camera\\ Reliability}
 (3,9) node[blacknode, align=center](r4){Radar\\ Reliability}
 (6,9) node[blacknode, align=center](i2){IR\\ Reliability}
-(1,1) node[blacknode, align=center](s1){Size}
-(6,1) node[blacknode, align=center](s2){Speed}
-(6,-1) node[yellownode, align=center](o){obj type}
-(12,0) node[greennode, align=center](i3){Intent};
+(2,1) node[blacknode, align=center](s1){Size}
+(7,1) node[blacknode, align=center](s2){Speed}
+(8,-1) node[yellownode, align=center](o){Object}
+(12,-1) node[greennode, align=center](i3){Intent};
 
 \draw[->, thick] (w) -- (c2);
 \draw[->, thick] (w) -- (r4);
@@ -63,10 +62,19 @@
 \draw[->, thick] (s2) -- (o);
 \draw[->, thick] (s2) -- (i3);
 \draw[->, thick] (o) -- (i3);
+\draw[->, thick] (i1) -- (s2);
+
+%Legend creation.
+\matrix [draw, right] at (current bounding box.east) {
+  \node [bluenode,label=right:Observable Node] {}; \\
+  \node [blacknode, label=right:Fusion Node] {}; \\
+  \node [yellownode,label=right:Object Classification] {}; \\
+  \node [greennode,label=right:Intent Classification] {}; \\
+};
 
 \end{tikzpicture}
 \end{center}
-\caption{\label{fig:fullBayes} Full Bayesian Network architecture.}
+\caption{\label{fig:5_full} Full Bayesian Network architecture.}
 \end{figure}
 
 \end{document}
