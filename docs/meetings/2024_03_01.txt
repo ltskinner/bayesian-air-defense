@@ -1,18 +1,19 @@
 
 Action Items:
 
-- drop 55555
+- [x] drop 55555
     - replace with: fusion of sensor systems for decision making
     - multiple disparate sensors
     - application of known mathematical concept that produces futuristic results
         - without incurring overhead of huge nns and lack of explainability
     - we pick air defense to prove viability
-- Abstract:
-    - send to several SMEs
-    - need to make sure releasable - check with Comms
-- put the figure from the tex file and put it in the paper
+- [IP] Abstract:
+    - [x] send to several SMEs
+    - [IP] need to make sure releasable - check with Comms
+- [x] take template and create sub-figures
+- [x] put the figure from the tex file and put it in the paper
     - https://tikz.dev/tikz-shapes
-- take template and create sub-figures
+    - question: can we link to other .tex files 
 
 
 ---------------------------------------------------------------------------
