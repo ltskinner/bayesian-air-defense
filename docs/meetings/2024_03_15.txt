@@ -1,0 +1,21 @@
+
+
+- [ ] text marc after comms approval
+- [ ] text marc after hit submit
+- [ ] Look at paper and agree on how we think structured
+    - In terms of sections
+    - What content should be in each section
+- [ ] After agree on strucutre, then can start on Poster
+- [ ] text marc after sending email with paper structure
+
+In the email:
+
+- abstract at the top
+- list out all the current sections in current order
+- before send to Marc, thinking about abstract and section headers only
+    (disregard content)
+    - basically update outline to meet abstract
+        - reorder
+        - remove
+        - add
+    - make one sentence talking about what section will cover
