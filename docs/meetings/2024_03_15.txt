@@ -1,7 +1,7 @@
 
 
-- [ ] text marc after comms approval
-- [ ] text marc after hit submit
+- [x] text marc after comms approval
+- [x] text marc after hit submit
 - [ ] Look at paper and agree on how we think structured
     - In terms of sections
     - What content should be in each section
