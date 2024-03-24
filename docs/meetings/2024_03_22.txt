@@ -1,0 +1,19 @@
+
+
+- [IP] finalize structure of paper (via email)
+- [IP] finalized structure of poster
+    - [ ] send sections to marc via email
+    - note, these sections dont have to be 1:1 names to paper
+    - we have 10 sections (or whatever)
+    - the poster only has room for 5 sections
+- [ ] Find way to collaborate on a word or gsuite doc
+    - Ideally, word native
+    - Worst case, gsuite in browser
+
+
+(Next week becomes editing routine)
+
+
+Look at the poster and use that as the driver for paper edits
+Basically fuse together, and identify most impactful items to convey
+
